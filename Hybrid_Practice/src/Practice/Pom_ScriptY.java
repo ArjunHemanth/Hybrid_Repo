@@ -49,4 +49,8 @@ public class Pom_ScriptY extends Base_Page_Youtube
 	{
 		share.click();
 	}
+	public void Shared()
+	{
+		//needs to be filled with 
+	}
 }
